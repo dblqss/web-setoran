@@ -132,6 +132,9 @@ const batal = async (item) => {
 
       <!-- HEADER -->
       <h1 class="text-2xl font-bold">Hafalan</h1>
+      <p class="text-gray-400 mb-4">
+          {{ info.nama }} • {{ info.nim }}
+        </p>
 
       <p class="text-gray-400 mt-3 mb-8">
         Cari data hafalan mahasiswa 📚
