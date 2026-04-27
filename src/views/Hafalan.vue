@@ -179,10 +179,6 @@ const batal = async (item) => {
           Lihat Riwayat
         </button>
 
-        <p class="text-gray-400 mb-4">
-          {{ info.nama }} • {{ info.nim }}
-        </p>
-
         <!-- RINGKASAN -->
         <div class="grid md:grid-cols-5 gap-4 mb-6">
 
